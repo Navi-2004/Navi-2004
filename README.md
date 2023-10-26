@@ -14,10 +14,6 @@
 - 📚 Constantly learning and keeping up with the latest trends in web development.
 
 
-![web](https://www.strivemindz.com/images/offerings/mobile/mern-stack-development.webp)
-
-
-
 🏆 Some of the projects I've worked on:
 - 🌐 PlacesHub: A website where owners can rent their places and users can book during their travel.
 - 📊 Student Connect: A Feel Ease website for students where students can manage their academic details with a single click.
