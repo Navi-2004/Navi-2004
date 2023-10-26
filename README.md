@@ -18,8 +18,8 @@
 - 📊 Student Connect: A Feel Ease website for students where students can manage their academic details with a single click.
 - 📱 30 Before 30 Blog: A personal Blog where I describe my dreams.
 - ... and more! Check out my repositories for a full list of my projects.
-- 
-  🏆 Achievements:
+
+🏆 Achievements:
 - Runner-up in College Level Hackathon
 - Solved 300+ problems in Leetcode
 - Solved 300+ problems in Codechef
