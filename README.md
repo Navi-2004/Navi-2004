@@ -13,6 +13,11 @@
 - 📐 Thorough testing, debugging, and performance optimization skills.
 - 📚 Constantly learning and keeping up with the latest trends in web development.
 
+
+![web](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.strivemindz.com%2Fmern-stack-development&psig=AOvVaw1yPb8BqfSx1QBgaLEne3fK&ust=1698386162967000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJjkqNGDk4IDFQAAAAAdAAAAABAJ)
+
+
+
 🏆 Some of the projects I've worked on:
 - 🌐 PlacesHub: A website where owners can rent their places and users can book during their travel.
 - 📊 Student Connect: A Feel Ease website for students where students can manage their academic details with a single click.
