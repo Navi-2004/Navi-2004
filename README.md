@@ -14,7 +14,7 @@
 - 📚 Constantly learning and keeping up with the latest trends in web development.
 
 
-![web](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.strivemindz.com%2Fmern-stack-development&psig=AOvVaw1yPb8BqfSx1QBgaLEne3fK&ust=1698386162967000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJjkqNGDk4IDFQAAAAAdAAAAABAJ)
+![web](https://www.strivemindz.com/images/offerings/mobile/mern-stack-development.webp)
 
 
 
